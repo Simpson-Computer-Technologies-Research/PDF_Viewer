@@ -1,3 +1,7 @@
+# PDF Viewer
+Preview PDF's online with Svelte.js
+
+# License
 MIT License
 
 Copyright (c) 2022 Tristan Simpson
